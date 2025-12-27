@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-game-in-C-
-A Tic Tac Toe game
+# Tic-Tac-Toe-game-in-C++
+A Tic Tac Toe game project for beginner with C++
